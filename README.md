@@ -1,0 +1,2 @@
+# story
+My day story.
